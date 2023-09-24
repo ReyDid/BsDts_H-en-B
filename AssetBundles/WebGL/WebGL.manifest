@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 2213357658
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: modelados
+      Dependencies:
+        Dependency_0: materiales
+    Info_1:
+      Name: materiales
+      Dependencies:
+        Dependency_0: texturas
+    Info_2:
+      Name: texturas
+      Dependencies: {}
+    Info_3:
+      Name: prefabricados
+      Dependencies:
+        Dependency_0: modelados
+        Dependency_1: materiales

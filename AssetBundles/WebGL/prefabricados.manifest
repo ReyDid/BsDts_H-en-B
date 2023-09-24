@@ -1,0 +1,37 @@
+ManifestFileVersion: 0
+CRC: 1282256529
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 219376eb255dcc0f803226e5e0945b8d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68926a9513ca0069fb4b2e3951f9dd86
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7b6843646c564bf488b90bf82b274ad3, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Huellas_En_Borondo/Prefabricados/Partida/Terreno/Ambiente/_1.prefab
+Dependencies:
+- R:/Didier/RDT/RDarTsGames/CopiaS/HB/AssetBundles/WebGL/materiales
+- R:/Didier/RDT/RDarTsGames/CopiaS/HB/AssetBundles/WebGL/modelados

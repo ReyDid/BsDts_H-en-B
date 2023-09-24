@@ -1,0 +1,17 @@
+ManifestFileVersion: 0
+CRC: 4197454484
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9d27a08c03064e32bb4f1f4ae0dfeacb
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: b0363f7088f9761414f730641bf9a24b
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Huellas_En_Borondo/Modelados/Objetos/Nubes/Texturas/MAT_Nube.png
+Dependencies: []

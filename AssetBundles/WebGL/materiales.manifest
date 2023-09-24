@@ -1,0 +1,24 @@
+ManifestFileVersion: 0
+CRC: 3859376246
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 06457a371ae521746aa660959d7bf500
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: f9f3d136959ac0e7043e721e899342fb
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Huellas_En_Borondo/Modelados/Objetos/Nubes/Materiales/Nube.mat
+- Assets/Huellas_En_Borondo/Modelados/Objetos/Nubes/Materiales/Nube_VillanoLlv.mat
+- Assets/Huellas_En_Borondo/Modelados/Objetos/Nubes/Materiales/Nube_Villano.mat
+Dependencies:
+- R:/Didier/RDT/RDarTsGames/CopiaS/HB/AssetBundles/WebGL/texturas
